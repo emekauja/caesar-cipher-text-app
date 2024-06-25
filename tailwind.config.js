@@ -30,6 +30,7 @@ export default {
         300: '#131316',
         DEFAULT: '#131316',
       },
+      red: 'red',
     },
     extend: {
       boxShadow: {

@@ -38,7 +38,7 @@ export const Input = React.forwardRef<HTMLInputElement, IInputProps>(
   }
 );
 
-export const InputLabelWWrapper = ({
+export const InputLabelWrapper = ({
   label,
   name,
   children,
